@@ -1,0 +1,232 @@
+{
+  "items-menu": [
+    {
+      "id": 1,
+      "title": "Joia"
+    },
+    {
+      "id": 2,
+      "title": "Amor e noivado"
+    },
+    {
+      "id": 3,
+      "title": "Relógios"
+    },
+    {
+      "id": 4,
+      "title": "Masculinos"
+    },
+    {
+      "id": 5,
+      "title": "Presentes"
+    },
+    {
+      "id": 6,
+      "title": "Acessórios"
+    }
+  ],
+  "Joia": [
+    {
+      "id": 1,
+      "title": "Anéis de noivado"
+    },
+    {
+      "id": 2,
+      "title": "Anéis de noivado masculino"
+    },
+    {
+      "id": 3,
+      "title": "Anéis de casamento"
+    },
+    {
+      "id": 4,
+      "title": "Conjunto de alinça de casamento"
+    },
+    {
+      "id": 5,
+      "title": "Anéis de casais"
+    },
+    {
+      "id": 6,
+      "title": "More"
+    },
+    {
+      "id": 7,
+      "title": "More 1"
+    },
+    {
+      "id": 8,
+      "title": "More 2"
+    }
+  ],
+  "Amor-e-Noivado": [
+    {
+      "id": 1,
+      "title": "Amor E Noivado  1"
+    },
+    {
+      "id": 1,
+      "title": "Amor E Noivado  2"
+    },
+    {
+      "id": 1,
+      "title": "Amor E Noivado  3"
+    },
+    {
+      "id": 1,
+      "title": "Amor E Noivado  4"
+    },
+    {
+      "id": 1,
+      "title": "Amor E Noivado  5"
+    },
+    {
+      "id": 1,
+      "title": "Amor E Noivado  6"
+    },
+    {
+      "id": 1,
+      "title": "Amor E Noivado  7"
+    },
+    {
+      "id": 1,
+      "title": "Amor E Noivado  8"
+    }
+  ],
+  "Relogios": [
+    {
+      "id": 1,
+      "title": "Relogio  1"
+    },
+    {
+      "id": 1,
+      "title": "Relogio  2"
+    },
+    {
+      "id": 1,
+      "title": "Relogio  3"
+    },
+    {
+      "id": 1,
+      "title": "Relogio  4"
+    },
+    {
+      "id": 1,
+      "title": "Relogio  5"
+    },
+    {
+      "id": 1,
+      "title": "Relogio  6"
+    },
+    {
+      "id": 1,
+      "title": "Relogio  7"
+    },
+    {
+      "id": 1,
+      "title": "Relogio  8"
+    }
+  ],
+  "Masculinos": [
+    {
+      "id": 1,
+      "title": "Masculino 1"
+    },
+    {
+      "id": 1,
+      "title": "Masculino 2"
+    },
+    {
+      "id": 1,
+      "title": "Masculino 3"
+    },
+    {
+      "id": 1,
+      "title": "Masculino 4"
+    },
+    {
+      "id": 1,
+      "title": "Masculino 5"
+    },
+    {
+      "id": 1,
+      "title": "Masculino 6"
+    },
+    {
+      "id": 1,
+      "title": "Masculino 7"
+    },
+    {
+      "id": 1,
+      "title": "Masculino 8"
+    }
+  ],
+  "Presentes": [
+    {
+      "id": 1,
+      "title": "Presentes 1"
+    },
+    {
+      "id": 1,
+      "title": "Presentes 2"
+    },
+    {
+      "id": 1,
+      "title": "Presentes 3"
+    },
+    {
+      "id": 1,
+      "title": "Presentes 4"
+    },
+    {
+      "id": 1,
+      "title": "Presentes 5"
+    },
+    {
+      "id": 1,
+      "title": "Presentes 6"
+    },
+    {
+      "id": 1,
+      "title": "Presentes 7"
+    },
+    {
+      "id": 1,
+      "title": "Presentes 8"
+    }
+  ],
+  "acessorios": [
+    {
+      "id": 1,
+      "title": "acessorios 1"
+    },
+    {
+      "id": 2,
+      "title": "acessorios 2"
+    },
+    {
+      "id": 3,
+      "title": "acessorios 3"
+    },
+    {
+      "id": 4,
+      "title": "acessorios 4"
+    },
+    {
+      "id": 5,
+      "title": "acessorios 5"
+    },
+    {
+      "id": 6,
+      "title": "acessorios 6"
+    },
+    {
+      "id": 7,
+      "title": "acessorios 7"
+    },
+    {
+      "id": 8,
+      "title": "acessorios 8"
+    }
+  ]
+}
